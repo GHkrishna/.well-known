@@ -9,7 +9,7 @@
       "id": "did:web:ghkrishna.github.io#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:ghkrishna.github.io",
-      "publicKeyBase58": "HrqRSMDTjzTuZHVEavFnVdgG1U7VmaNeLnuPpZpUJ3Gn"
+      "publicKeyBase58": "8squnn7m3ydfXySRFGZYequaEGWoFQjQ5ktUbstNSmr5"
     }
   ],
   "authentication": [
